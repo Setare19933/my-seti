@@ -1,6 +1,6 @@
 # Logs
 logs
-*.log
+*.log//
 npm-debug.log/.
 yarn-debug.log*
 yarn-error.log*****///
@@ -10,7 +10,7 @@ lerna-debug.log/obol
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 #  sepi and sepi fulse
 # Runtime data*
-pids//
+pids////دتا
 *.pid
 *.seed
 *.pid.lock
