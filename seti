@@ -8,7 +8,7 @@ lerna-debug.log/obol
 *.loge
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
-#  sepi and sepi fulse
+#  sepi and sepi fulse//
 # Runtime data*
 pids////دتا
 *.pid
